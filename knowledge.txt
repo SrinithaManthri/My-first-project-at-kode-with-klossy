@@ -1,0 +1,550 @@
+Engineering + STEM:
+HerPath is an AI assistant that helps women and girls explore opportunities in engineering, technology, artificial intelligence, research, and STEM careers. 
+
+Engineering is one of the fastest-growing career fields and includes branches such as Computer Science Engineering (CSE), Electronics and Communication Engineering (ECE), Electrical Engineering (EEE), Mechanical Engineering, Civil Engineering, Chemical Engineering, Aerospace Engineering, Biomedical Engineering, and Artificial Intelligence.
+
+Programme Name: Kode With Klossy (KWK)
+Category: Free Coding Summer Camp
+Description:
+A free coding programme for girls and gender-expansive students that teaches Web Development, Data Science, Artificial Intelligence, and Machine Learning through project-based learning.
+Eligibility:
+- Girls and gender-expansive students
+- Ages 13–18
+- No prior coding experience required for many camps
+Benefits:
+- Free programme
+- Technical skills
+- Mentorship
+- Community
+- Certificate of completion
+Application Process:
+Apply through the official Kode With Klossy website.
+Application Period:
+Typically opens in the first half of the year.
+Best For:
+High school students exploring computer science and AI.
+Kode With Klossy Application deadline: 15 March 2027
+ -----------------*****---------------------
+
+MIT Women's Technology Program (WTP) is a free summer engineering program that introduces high school students to engineering and computer science through intensive coursework and projects. 
+https://oeop.mitProgramme Name: MIT Women's Technology Program (WTP)
+Category: Free Summer Engineering and Computer Science Program
+Description:
+A rigorous summer program by the Massachusetts Institute of Technology (MIT) that introduces high school students to engineering and computer science through hands-on coursework, labs, and projects.
+Eligibility:
+- Primarily women and underrepresented genders
+- High school students (typically rising seniors)
+- Open to domestic and international applicants
+- No prior advanced programming or engineering experience required
+Benefits:
+- Tuition-free program
+- Hands-on engineering and computer science experience
+- Mentorship from MIT students and faculty
+- Exposure to STEM careers and college-level learning
+Application Process:
+Apply through the official MIT WTP website by submitting the required application materials.
+Application Period:
+Applications typically open in late fall and close in January. Check the official website for current dates.
+Official Website:.edu/programs/mit-womens-technology-program
+Best For:
+High school students interested in exploring engineering, computer science, and STEM careers at an advanced level.
+MIT Women's Technology Program Application deadline:15 December 2027
+---------------********----------------
+
+Women Techmakers by Google supports women in technology through workshops, mentorship, networking events, and technical learning opportunities.
+Programme Name: Women Techmakers
+Category: Women in Technology Community and Professional Development Program
+Description:
+Women Techmakers is Google's global initiative that supports women in technology through learning opportunities, mentorship, networking events, and community programs to help them grow their technical skills and careers.
+Eligibility:
+- Women and underrepresented genders in technology
+- Students, professionals, and aspiring technologists
+- Open to participants worldwide
+- No specific technical experience required for many community events
+Benefits:
+- Technical workshops and training
+- Mentorship opportunities
+- Networking with the global tech community
+- Career development resources and events
+Application Process:
+Join through the official Women Techmakers website or participate in local Women Techmakers communities and events.
+Application Period:
+Available throughout the year. Some programs and events have separate application or registration deadlines.
+Official Website:
+https://www.womentechmakers.com/
+Best For:
+Women and girls seeking technical learning, mentorship, networking, and career growth in technology.
+Women Techmakers Application period: Throughout the year
+
+-------------------***********----------------------
+
+Women Who Code helps women improve programming skills through coding events, mentorship, technical workshops, and career support.
+Programme Name: Women Who Code
+Category: Global Technology Community and Career Development Program
+Description:
+Women Who Code is a global nonprofit organization that supports women in technology by providing technical education, mentorship, networking opportunities, leadership development, and career resources.
+Eligibility:
+- Women and underrepresented genders in technology
+- Students, professionals, and career changers
+- Open to participants worldwide
+- No specific programming experience required for many events
+Benefits:
+- Technical workshops and coding events
+- Mentorship and career guidance
+- Networking with the global tech community
+- Leadership and professional development opportunities
+Application Process:
+Join the community by creating a free account on the official Women Who Code website and registering for events or programs.
+Application Period:
+Membership is available year-round. Individual events and programs may have separate registration deadlines.
+Official Website:
+https://womenwhocode.com/
+Best For:
+Women and girls looking to improve coding skills, connect with the tech community, and advance their careers in technology.
+Women Who Code Application period: Throughout the year
+-------------------************---------------
+Programme Name: Girls Who Code (GWC)
+Category: Free Coding Education Programme
+Description:
+A free nonprofit programme that teaches coding and computer science to girls and non-binary students through summer programmes, clubs, and self-paced learning.
+Eligibility:
+- Girls and non-binary students
+- Grade and age requirements vary by programme
+- No prior coding experience required for most beginner programmes
+Benefits:
+- Free coding education
+- Hands-on programming projects
+- Mentorship and career guidance
+- Global community of learners
+- Certificates and alumni opportunities (programme-dependent)
+Application Process:
+Apply online through the official Girls Who Code website.
+Application Period:
+Varies by programme and is announced annually.
+Official Website:
+https://girlswhocode.com
+Best For:
+Students interested in coding, computer science, and technology careers.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~******~~~~~~~~~~~~~~~~~~~~~
+scholarships:
+
+Generation Google Scholarship supports students pursuing computer science and related technical fields. 
+It recognizes academic achievement, leadership, and financial need.
+Programme Name: Generation Google Scholarship
+
+Category: Scholarship for Computer Science Students
+Description:
+The Generation Google Scholarship supports students pursuing computer science and related technical fields by providing financial assistance and encouraging diversity in technology.
+Eligibility:
+- Students enrolled in or planning to enrol in a Bachelor's degree in Computer Science or a closely related field
+- Must meet the eligibility requirements for the specific region (e.g., Asia Pacific, North America, Europe)
+- Demonstrate academic achievement, leadership, and commitment to diversity in technology
+Benefits:
+- Scholarship funding (amount varies by region)
+- Recognition from Google
+- Opportunities to connect with the Google community and other scholars
+Application Process:
+Apply online through the official Google Scholarships portal and submit the required documents.
+Application Period:
+Applications typically open once a year. Dates vary by region.
+Official Website:
+https://buildyourfuture.withgoogle.com/scholarships
+Best For:
+Undergraduate students pursuing computer science or related fields who demonstrate academic excellence and leadership.
+
+-----------------*******-------------
+
+
+Adobe Women-in-Technology Scholarship supports women studying computer science, engineering, artificial intelligence, and related technical fields. Recipients may receive financial support and mentorship.
+Programme Name: Adobe Women-in-Technology Scholarship
+
+Category: Scholarship for Women in Technology
+Description:
+The Adobe Women-in-Technology Scholarship supports women pursuing degrees in computer science and related technical fields by providing financial assistance and opportunities to grow in the technology industry.
+Eligibility:
+- Students identifying as women
+- Enrolled in an undergraduate degree in Computer Science, Computer Engineering, Data Science, Artificial Intelligence, or a related technical field
+- Demonstrate strong academic performance and leadership potential
+Benefits:
+- Scholarship funding
+- Mentorship opportunities
+- Opportunity to interview for an Adobe internship (subject to eligibility and availability)
+- Recognition from Adobe
+Application Process:
+Apply online through the official Adobe Women-in-Technology Scholarship application portal.
+Application Period:
+Applications typically open once a year. Dates may vary annually.
+Official Website:
+https://research.adobe.com/scholarship/
+Best For:
+Women pursuing undergraduate studies in computer science or related technology fields who seek financial support and career opportunities.
+March 30 September 2027
+-----------------*******----------
+Society of Women Engineers (SWE) Scholarships provide financial assistance to women pursuing undergraduate and graduate engineering degrees.
+Application deadline: 31 March 2027
+---------------
+IEEE Women in Engineering (WIE) offers scholarships, travel grants, mentoring, and professional development opportunities for women in engineering and technology.
+Programme Name: IEEE Women in Engineering (WIE) International Scholarship
+Category: Scholarship for Women in Engineering
+Description:
+The IEEE Women in Engineering (WIE) International Scholarship supports outstanding women pursuing undergraduate engineering degrees by providing financial assistance and recognizing academic excellence and leadership. 0
+Eligibility:
+- IEEE WIE Student Member with at least two consecutive years of WIE membership
+- Full-time undergraduate engineering student who has completed two years of study
+- Strong academic performance (minimum GPA requirement or local equivalent)
+- Meet all scholarship application requirements 1
+Benefits:
+- US$2,500 scholarship award
+- Certificate of recognition
+- Recognition from IEEE Women in Engineering
+- Opportunity to join the global IEEE WIE community 2
+Application Process:
+Apply online through the official IEEE Women in Engineering Scholarships portal and submit the required essays and recommendation letters. 3
+Application Period:
+Applications typically open once a year. Check the official website for current dates. 4
+Official Website:
+https://wie.ieee.org/grants-scholarships/
+Best For:
+Women engineering students seeking financial support and recognition for academic excellence and leadership.
+```5
+Adobe Women-in-Technology Scholarship Application deadline:31 March 2027
+----------------*******------------
+
+Programme Name: Science Ambassador Scholarship
+Category: Scholarship for Women in STEM
+Description:
+The Science Ambassador Scholarship is a full-tuition scholarship funded by Cards Against Humanity for women and non-binary students pursuing undergraduate degrees in science, technology, engineering, or mathematics (STEM).
+Eligibility:
+- Women and non-binary students
+- High school seniors or undergraduate students
+- Planning to pursue or currently enrolled in a STEM degree at an accredited U.S. college or university
+- Must submit a three-minute educational video explaining a STEM topic
+Benefits:
+- Full tuition scholarship for undergraduate study
+- Financial support for eligible STEM programmes
+Science Ambassador Scholarship Application deadline: 15 December 2027
+-------------********----------
+
+Research programmes:
+
+Programme Name:
+Mitacs Globalink Research Internship (GRI)
+Category:
+International Research Internship
+Description:
+A competitive research internship that allows undergraduate students from eligible countries to conduct research at Canadian universities under faculty supervision.
+Eligibility:
+- Undergraduate students
+- Students from eligible countries and universities
+- Strong academic record
+Benefits:
+- Research experience
+- Mentorship from university professors
+- International exposure
+- Financial support for eligible participants
+Application Process:
+Apply online through the official Mitacs website.
+Application Period:
+Typically opens in August–September. Check the official website for current dates.
+Official Website:
+https://www.mitacs.ca/
+Best For:
+Undergraduate students interested in research and graduate studies.
+-------------********--------------
+Programme Name:
+DAAD RISE Germany
+Category:
+International Research Internship
+Description:
+A research internship programme that enables undergraduate students to work on research projects at universities and research institutions in Germany.
+Eligibility:
+- Undergraduate students
+- Strong academic record
+- Open to students from eligible countries
+Benefits:
+- Research experience
+- Monthly scholarship
+- International exposure
+- Mentorship from researchers
+Application Process:
+Apply online through the official DAAD portal.
+Application Period:
+Typically opens in September and closes in November. Check the official website for current dates.
+Official Website:
+https://www.daad.de/rise
+Best For:
+Undergraduate students interested in STEM research and studying or working in Germany.
+-------------********--------------
+Programme Name:
+KAUST Visiting Student Research Program (VSRP)
+Category:
+International Research Internship
+Description:
+A research internship at King Abdullah University of Science and Technology (KAUST) in Saudi Arabia, where students work on research projects under faculty supervision.
+Eligibility:
+- Undergraduate or master's students
+- Strong academic record
+- English proficiency required
+Benefits:
+- Hands-on research experience
+- Mentorship from KAUST faculty
+- Monthly stipend
+- Accommodation and travel support for eligible participants
+Application Process:
+Apply online through the official KAUST VSRP website.
+Application Period:
+Applications are accepted throughout the year for many projects. Check the official website for current opportunities.
+Official Website:
+https://vsrp.kaust.edu.sa/
+Best For:
+Students interested in STEM research and gaining international research experience.
+-------------********--------------
+Programme Name:
+L'Oréal–UNESCO For Women in Science
+Category:
+Women in STEM Research Fellowship
+Description:
+A global programme that supports outstanding women researchers through fellowships, recognition, and funding to advance scientific research.
+Eligibility:
+- Women researchers
+- Eligibility varies by country and fellowship
+- Strong research background
+Benefits:
+- Research funding
+- International recognition
+- Networking opportunities
+Application Process:
+Apply through the official programme website or participating national partners.
+Application Period:
+Varies by country and programme.
+Official Website:
+https://www.forwomeninscience.com/
+Best For:
+Women pursuing careers in scientific research.
+-------------********--------------
+Programme Name:
+Google Women in Research
+Category:
+Women in Computer Science Research
+Description:
+Google supports women in computer science research through selected research awards, collaborations, and academic initiatives.
+Eligibility:
+- Women researchers
+- Eligibility varies by programme
+- Computer science or related fields
+Benefits:
+- Research funding
+- Collaboration opportunities
+- Professional recognition
+Application Process:
+Apply through eligible Google research programmes.
+Application Period:
+Varies by programme.
+Official Website:
+https://research.google/
+Best For:
+Women conducting research in computer science and AI.
+-------------********--------------
+here are some other programmes related to research that are women-specific:
+OWSD Early Career Fellowship
+OWSD PhD Fellowships
+L'Oréal–UNESCO For Women in Science
+Schlumberger Faculty for the Future
+AAUW International Fellowships
+British Council Women in STEM Scholarships
+WiML Mentorship & Research Workshops
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hackathons:
+
+
+Programme Name:
+Technovation Girls
+Category:
+Global AI & Technology Competition
+Description:
+A global programme where girls develop AI or technology solutions to solve real-world community problems.
+Eligibility:
+- Girls aged 8–18
+- Team participation
+- No prior coding experience required
+benefits:
+- AI and coding skills
+- Mentorship
+- Global competition
+- Certificates and awards
+Application Process:
+Register online through the official website.
+Application Period:
+Typically opens in October. Check the official website for current dates.
+Official Website:
+https://technovationchallenge.org/
+Best For:
+Girls interested in AI, entrepreneurship, and social impact.
+-------------********--------------
+Programme Name:
+Google Solution Challenge
+Category:
+Global Innovation Competition
+Description:
+A competition where students create technology solutions addressing the United Nations Sustainable Development Goals (SDGs).
+Eligibility:
+- Students
+- Individual or team participation
+- Basic programming knowledge recommended
+Benefits:
+- Mentorship
+- Google learning resources
+- Global recognition
+- Networking opportunities
+Application Process:
+Register and submit your project online.
+Application Period:
+Typically opens early each year.
+Official Website:
+https://developers.google.com/community/gdsc-solution-challenge
+Best For:
+Students passionate about technology and social impact.
+-------------********--------------
+Programme Name:
+NASA Space Apps Challenge
+Category:
+Global Hackathon
+Description:
+A worldwide hackathon where participants build innovative solutions using NASA's open data.
+Eligibility:
+- Open to students and professionals
+- Individual or team participation
+Benefits:
+- Problem-solving experience
+- Global networking
+- NASA recognition
+- Certificates
+Application Process:
+Register online through the official website.
+Application Period:
+Typically held annually around September–October.
+Official Website:
+https://www.spaceappschallenge.org/
+Best For:
+Students interested in space, AI, data science, and engineering.
+
+-------------********--------------
+Programme Name:
+Major League Hacking (MLH)
+Category:
+Hackathon Community
+Description:
+A global community hosting beginner-friendly and advanced hackathons for students throughout the year.
+Eligibility:
+- Students
+- Beginners welcome
+- Team or individual participation
+Benefits:
+- Hands-on project experience
+- Networking
+- Workshops
+- Prizes and certificates
+Application Process:
+Register through the official MLH website.
+Application Period:
+Events are held throughout the year.
+Official Website:
+https://mlh.io/
+Best For:
+Students looking to gain hackathon experience and improve coding skills.
+
+-------------********--------------
+
+
+
+~~~~~~~~~~~~~~~~~~~~
+Preprint Servers: A preprint server is an online platform where researchers share their research papers before they are formally peer-reviewed and published in a journal.
+- arXiv
+- bioRxiv
+- medRxiv
+- SSRN
+~~~~~~~~~~~~~~~~~~~~
+Academic Search Tips:
+- Use specific keywords.
+- Filter by publication year.
+- Read abstracts before downloading papers.
+- Check citation counts.
+- Review references for related work.
+
+Reference Management:
+- Zotero
+- Mendeley
+- EndNote
+
+Research Writing:
+- Structure papers using IMRaD:
+  - Introduction
+  - Methods
+  - Results
+  - Discussion
+- Cite sources properly.
+- Avoid plagiarism.
+- Proofread before submission.
+
+Research Opportunities:
+- Undergraduate research programs
+- Graduate research assistantships
+- Research internships
+- University laboratories
+- Open-source research projects
+- International research collaborations
+
+Funding Sources:
+- Government research grants
+- University funding
+- Research fellowships
+- Women in STEM grants
+- International funding agencies
+
+Research Skills:
+- Literature review
+- Critical reading
+- Experimental design
+- Data collection
+- Data analysis
+- Statistical reasoning
+- Academic writing
+- Presentation skills
+
+Research Ethics:
+- Obtain required approvals.
+- Respect participant privacy.
+- Report findings honestly.
+- Avoid plagiarism and data fabrication.
+- Disclose conflicts of interest.
+
+AI & Computer Science Research:
+- Machine Learning
+- Artificial Intelligence
+- Computer Vision
+- Natural Language Processing
+- Robotics
+- Cybersecurity
+- Data Science
+- Human-Computer Interaction
+
+Datasets:
+- Kaggle
+- UCI Machine Learning Repository
+- Hugging Face Datasets
+- Google Dataset Search
+
+Research Communities:
+- GitHub
+- Hugging Face
+- ResearchGate
+- ORCID
+
+Conference Preparation:
+- Read the Call for Papers.
+- Follow formatting guidelines.
+- Prepare a clear presentation.
+- Practice answering questions.
+- Network with researchers.
