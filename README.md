@@ -4,7 +4,7 @@ HerPath is an AI-powered career companion designed to help women and girls easil
 
 🤗 **Originally built as a Hugging Face Space: https://huggingface.co/spaces/kode-with-klossy/3.4-groupA1-capstone
 
-![Screenshot of my chatbot](Screenshot(29).png)
+![Screenshot of my chatbot](Screenshot%20(29).png)
 
 ## What it does
 * **Personalized Guidance**: Users can type natural language questions to receive tailored academic and career recommendations.
